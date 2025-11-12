@@ -1,0 +1,12 @@
+{
+    "pieces_model": "large",
+    "piece_sampling": 10,
+    "corner_conf": 0.15,
+    "corner_iou": 0.1,
+    "pieces_conf": 0.5,
+    "pieces_iou": 0.35,
+    "offsetx": 300,
+    "offsety": 300,
+    "stockfish_path": "C:/Users/lenovo/Downloads/stockfish-windows-x86-64-avx2 (1)",
+    "debug": "False"
+}
